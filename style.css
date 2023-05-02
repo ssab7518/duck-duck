@@ -1,0 +1,39 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{background-color:#fff8e7;}
+
+img{position:relative;
+    right:-600px;}
+.h-one{position:relative;
+      right:-500px;}
+hr{color:cyan;
+  width:700px;}
+
+.one{color:orange;
+    position:relative;
+    right:-320px;
+    font-family: sans-serif;}
+
+.onee{position:relative;
+     right:-320px;
+     font-family: sans-serif;}
+
+.two{color:orange;
+    position:relative;
+    right:-320px;
+    font-family: sans-serif;}
+
+.twoo{position:relative;
+     right:-320px;
+     font-family: sans-serif;}
+
+.three{color:orange;
+    position:relative;
+    right:-320px;
+      font-family: sans-serif;}
+
+.threee{position:relative;
+     right:-320px;
+       font-family: sans-serif;}
